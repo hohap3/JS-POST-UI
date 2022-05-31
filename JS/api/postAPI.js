@@ -27,4 +27,5 @@ const postAPI = {
     return axiosClient.delete(url);
   }
 }
+
 export default postAPI;
